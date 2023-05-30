@@ -61,6 +61,10 @@ a:link {
 .container {
   width: 600px;
   margin: 30px auto;
+  max-width: 700px;
+  background-color: white;
+  padding: 10;
+  border-radius: 2%;
 }
 
 .card-white {
